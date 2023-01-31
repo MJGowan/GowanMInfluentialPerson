@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Faustina&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+body{
+    background-color:rgb(255, 169, 156);
+    font-family: Faustina;
+}
+h1{
+    font-family: Kaushan Script;
+}
+.btn{
+    font-family: Kaushan Script;
+    font-size:xx-large;
+}
+.heartHands{
+    width:400px;
+    border-radius:10px;
+}
+.horizontalImg{
+    width:500px;
+}
+.verticalImg{
+    width:300px;
+}
+.addMargin{
+    margin-right:70px;
+}
+.carousel{
+    width:450px;
+}
+.gradImg{
+    width:500px;
+}
+.fitPic{
+    width:500px;
+}
