@@ -5,6 +5,7 @@
 body{
     background-color:rgb(255, 169, 156);
     font-family: Faustina;
+    color:black;
 }
 h1{
     font-family: Kaushan Script;
@@ -34,4 +35,8 @@ h1{
 }
 .fitPic{
     width:500px;
+}
+.backBtn{
+    background-color:transparent;
+    border-color:transparent;
 }
